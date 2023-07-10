@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+SimpleITK
+tqdm
+os
+torchvision
+tqdm
+
