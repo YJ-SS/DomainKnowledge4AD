@@ -30,7 +30,7 @@ We show the performance of our trained model on MCAD dataset in ```validate.ipyn
 
 For example, ```chan=1-512 domain=F testsite=0 best_network.pth``` means this model is trained by site 1 to site 6 and test by site 0. 
 
-The model performance in ```validate.ipynb``` is shown below:
+The model performance(prediction accuracy at different sites) in ```validate.ipynb``` is shown below:
 
 |  model  | site 0 | site 1 | site 2 | site 3 | site 4 | site 5 | site 6 |
 | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
